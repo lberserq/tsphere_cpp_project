@@ -1,0 +1,9 @@
+build*
+*.o
+*.bak
+*.*~*
+*.vcxproj
+*.sln
+*.filters
+*.suo
+
